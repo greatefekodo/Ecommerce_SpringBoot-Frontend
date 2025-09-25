@@ -3,10 +3,10 @@ import ProductCard from "./shared/ProductCard";
 
 const Products = [
   {
-    image: "https://images.pexels.com/photos/12123390/pexels-photo-12123390.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    productName: "iPhone 13 Pro Max",
+    image: "https://applemagazine.com/wp-content/uploads/2025/07/iPhone-17-rumor-6.png",
+    productName: "iPhone 17, Air and Pro max",
     description:
-      "The iPhone 13 Pro Max offers exceptional performance with its A15 Bionic chip, stunning Super Retina XDR display, and advanced camera features for breathtaking photos.",
+      "The iPhone 17 series offers exceptional performance with its A15 Bionic chip, stunning Super Retina XDR display, and advanced camera features for breathtaking photos.",
     specialPrice: 720,
     price: 780,
   },
